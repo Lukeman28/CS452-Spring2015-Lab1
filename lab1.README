@@ -1,1 +1,6 @@
-name, date, description
+Luke Shaw, 1/22/2015
+
+To create this program I set up multiple buffers that stored the three different shapes. 
+Then had one shape load ons tartup and a onclick command that would 
+execute a function that would upload a different shape buffer and redraw it along with
+incrementing a counter that would reset back to oen once it reached 4 allowing for the loop effect
